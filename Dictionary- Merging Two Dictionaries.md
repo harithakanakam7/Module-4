@@ -19,9 +19,8 @@ res
 dict3=merge(dict1,dict2) 
 print(dict3)
 ```
-
 ## Output
-![2](https://github.com/user-attachments/assets/e3cb2276-faa0-48e2-936d-a06712c4b3d9)
+![Screenshot (145)](https://github.com/user-attachments/assets/e8333efb-3f5c-488e-bca7-cb30b9252da2)
 
 
 ## Result
